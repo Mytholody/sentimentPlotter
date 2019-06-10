@@ -9,7 +9,6 @@ from bokeh.models import ColumnDataSource, HoverTool
 from bokeh.plotting import figure
 
 from textblob import TextBlob
-import matplotlib.pyplot as plt
 import heapq
 
 fileName = "t1.txt"
