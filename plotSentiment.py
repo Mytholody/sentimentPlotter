@@ -1,6 +1,8 @@
 # @author Kyle
 # Copyright Kyle 2019
 # Generates a plot of ups and downs in a given story structure
+# Inspired by https://github.com/IndicoDataSolutions/plotlines
+# (see above for use of a trained sentiment api and other nifty things, including an awesome description of everything)
 #bokeh code based on https://bokeh.pydata.org/en/1.0.0/docs/user_guide/examples/tools_hover_tooltip_formatting.html
 import numpy as np
 
